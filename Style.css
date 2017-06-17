@@ -1,5 +1,38 @@
-#cabezera {
+#cabecera {
 
-	height: 50px;
-	background-color: 
+	height: 80px;
+	background-color: #FFC31C;
+	border-radius: 15px; 
+	text-align: center;
 }
+
+#imagen1 {
+
+	background-color: #E5E5E5;
+	height: 500px;
+}
+
+#texto1{
+
+
+}
+
+h1 {
+	color: #FFFFFF;
+}
+
+p {
+	color:#000000;
+	font-family: helvetica;
+}
+
+
+.tres-columnas {
+
+	-webkit-column-count: 3; /* Chrome, Safari, Opera */
+    -moz-column-count: 3; /* Firefox */
+    column-count: 3;
+}
+
+
+
